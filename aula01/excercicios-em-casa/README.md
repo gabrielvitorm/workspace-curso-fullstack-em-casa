@@ -21,3 +21,7 @@ Resolução da questão 6
 Resolução da questão 7
 
 <img src="images/image6.png" widht="300">
+
+Resolução da questão 8
+
+<img src="images/image7.png" widht="300">
