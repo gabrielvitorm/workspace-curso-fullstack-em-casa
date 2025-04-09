@@ -1,0 +1,43 @@
+body {
+    background-color: #f9f9f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .card {
+    border: none;
+    transition: transform 0.2s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.01);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  }
+  
+  .card-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+  
+  .card-text {
+    font-size: 0.9rem;
+    color: #6c757d;
+  }
+  
+  .btn-danger {
+    background-color: #d00000;
+    border: none;
+  }
+  
+  .btn-danger:hover {
+    background-color: #a80000;
+  }  
+  
+  .btn-primary {
+    background-color: #d00000;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #b30000;
+  }
+  
